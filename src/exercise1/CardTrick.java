@@ -73,7 +73,7 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My name is Elnaz, but you can call me Eli");
-	System.out.println(" I have 2 years-old Son");
+	System.out.println("I have 2 years-old Son");
 	    
 	System.out.println();
 	    
