@@ -11,7 +11,7 @@ package exercise1;
 public class CardTrick {
     
     public static void main(String[] args) {
-	    //hiii
+	   
         
         Card[] hand = new Card[7];
 
